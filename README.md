@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Reem!
  👩🏻‍💻 Software Engineering Student<br/>
  👩🏻‍🎓 Studying [Computer Science Apprenticeship Program](https://cap.najah.edu/en/) at An-Najah National University, Palestine<br/>
- 💭 Currently learning Flutter, php and enhancing my front-end development skills!<br/>
+ 💭 Currently learning node.js, and enhancing my front-end development skills!<br/>
  
  # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
