@@ -18,6 +18,5 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=ReemAbs0&theme=radical&cache_seconds=1)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ReemAbs0&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
