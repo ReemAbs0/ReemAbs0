@@ -1,4 +1,4 @@
-# Reem Abu Snenh
+# Hi, I'm Reem Abu Snenh 👋
  👩🏻‍💻 Aspiring Software Engineering<br/>
  👩🏻‍🎓 Studying [Computer Science Apprenticeship Program](https://cap.najah.edu/en/) at An-Najah National University, Palestine<br/>
  💭 Currently learning node.js, and enhancing my front-end development skills!<br/>
