@@ -24,6 +24,6 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ReemAbs0&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com?user=ReemAbs0&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ReemAbs0&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReemAbs0&layout=compact&theme=radical)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ReemAbs0&theme=react-dark)
 
